@@ -1,0 +1,2 @@
+# verify-getStaticProps
+【ブログ：getStaticPropsから渡したデータが静的資材に書き込まれているか確認してみた】のサンプルコード
