@@ -1,0 +1,26 @@
+{
+  "name": "verify-getstaticprops",
+  "version": "1.0.0",
+  "description": "【ブログ：getStaticPropsから渡したデータが静的資材に書き込まれているか確認してみた】のサンプルコード",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryunosuke27/verify-getStaticProps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryunosuke27/verify-getStaticProps/issues"
+  },
+  "homepage": "https://github.com/Ryunosuke27/verify-getStaticProps#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
